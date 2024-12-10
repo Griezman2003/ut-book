@@ -1,0 +1,80 @@
+body {
+    font-family: 'Georgia', serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  .container-fluid.py-4 {
+    background: linear-gradient(135deg, #0A6437, #351819);
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  .main-title {
+    font-size: 2.8rem;
+    font-weight: bold;
+    margin: 0;
+    color: #FFD700;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  }
+  .sub-title {
+    font-size: 1.2rem;
+    color: #f4f4f4;
+  }
+  .cart-container {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    padding: 5px 15px;
+  }
+  .cart-count {
+    background-color: #FFD700;
+    color: white;
+    border-radius: 50%;
+    padding: 5px 10px;
+    font-weight: bold;
+  }
+  .navbar-container {
+    background-color: #0A6437;
+  }
+  .navbar-menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar-menu li {
+    display: inline-block;
+  }
+  .btn-outline-light {
+    border: 2px solid #FFD700;
+    color: #FFD700;
+    font-weight: bold;
+    padding: 8px 20px;
+    transition: all 0.3s ease;
+  }
+  .btn-outline-light:hover {
+    background-color: #FFD700;
+    color: #0A6437;
+  }
+  .dropdown-menu {
+    background-color: #154d1c;
+    border: 1px solid #FFD700;
+  }
+  .dropdown-item {
+    color: #0A6437;
+    font-weight: 500;
+  }
+  .dropdown-item:hover {
+    background-color: #000;
+    color: #000;
+  }
+  .logo {
+    max-height: 80px;
+  }
+
+  

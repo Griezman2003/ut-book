@@ -1,0 +1,263 @@
+{
+  "libros": [
+    {
+      "titulo": "Cien años de soledad",
+      "imagen": "https://m.media-amazon.com/images/I/71YoFJSz3LL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Una obra maestra de Gabriel García Márquez que narra la historia épica de la familia Buendía en el pueblo ficticio de Macondo, explorando temas de soledad, amor, violencia, e historia a través de generaciones.",
+      "autor": "Gabriel García Márquez",
+      "ano": 1967
+    },
+    {
+      "titulo": "1984",
+      "imagen": "https://m.media-amazon.com/images/I/61ePJ3qc16L._AC_UF1000,1000_QL80_.jpg",
+      "resena": "George Orwell describe un futuro distópico donde un régimen totalitario controla cada aspecto de la vida, utilizando vigilancia masiva, propaganda y la supresión de la individualidad.",
+      "autor": "George Orwell",
+      "ano": 1949
+    },
+    {
+      "titulo": "El Principito",
+      "imagen": "https://m.media-amazon.com/images/I/71AVK5VIAzL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Un cuento poético de Antoine de Saint-Exupéry sobre un joven príncipe que explora el universo buscando el sentido de la vida, reflexionando sobre la amistad, el amor y el sacrificio.",
+      "autor": "Antoine de Saint-Exupéry",
+      "ano": 1943
+    },
+    {
+      "titulo": "Orgullo y prejuicio",
+      "imagen": "https://m.media-amazon.com/images/I/71TutMCY1VL._AC_UF894,1000_QL80_.jpg",
+      "resena": "Una novela romántica de Jane Austen que explora las complejidades del amor y las relaciones sociales en la Inglaterra del siglo XIX, centrándose en las vidas y prejuicios de la familia Bennet.",
+      "autor": "Jane Austen",
+      "ano": 1813
+    },
+    {
+      "titulo": "Harry Potter y la piedra filosofal",
+      "imagen": "https://m.media-amazon.com/images/I/81dxFCnAp0L._AC_UF1000,1000_QL80_.jpg",
+      "resena": "El primer libro de la famosa saga de J.K. Rowling donde conocemos a Harry, un joven mago que descubre sus habilidades mágicas y comienza su educación en el Colegio Hogwarts de Magia y Hechicería.",
+      "autor": "J.K. Rowling",
+      "ano": 1997
+    },
+    {
+      "titulo": "El señor de los anillos: La comunidad del anillo",
+      "imagen": "https://m.media-amazon.com/images/I/816QLZKwmIL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "La épica aventura de J.R.R. Tolkien donde un grupo de héroes de diferentes razas emprenden una peligrosa misión para destruir el Anillo Único y salvar la Tierra Media.",
+      "autor": "J.R.R. Tolkien",
+      "ano": 1954
+    },
+    {
+      "titulo": "Don Quijote de la Mancha",
+      "imagen": "https://m.media-amazon.com/images/I/91CIwR3QU1L._UF894,1000_QL80_.jpg",
+      "resena": "La obra maestra de Miguel de Cervantes que sigue las desventuras de un caballero idealista y su fiel escudero, Sancho Panza, en un viaje que desafía la lógica y la realidad.",
+      "autor": "Miguel de Cervantes",
+      "ano": 1605
+    },
+    {
+      "titulo": "Los juegos del hambre",
+      "imagen": "https://m.media-amazon.com/images/I/71BUB4ubNEL._UF894,1000_QL80_.jpg",
+      "resena": "Suzanne Collins narra una distopía donde adolescentes luchan por sobrevivir en un brutal espectáculo televisado, en un mundo gobernado por la opresión y la desigualdad.",
+      "autor": "Suzanne Collins",
+      "ano": 2008
+    },
+    {
+      "titulo": "El código Da Vinci",
+      "imagen": "https://m.media-amazon.com/images/I/71PR0C4XNjL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Dan Brown presenta un thriller lleno de enigmas y misterios relacionados con el arte y la religión, girando en torno a un asesinato en el Museo del Louvre.",
+      "autor": "Dan Brown",
+      "ano": 2003
+    },
+    {
+      "titulo": "Crónica de una muerte anunciada",
+      "imagen": "https://m.media-amazon.com/images/I/81ItYmT-50L.jpg",
+      "resena": "Otra joya de Gabriel García Márquez que relata un asesinato anunciado, donde toda la comunidad conoce los hechos antes de que ocurran, pero nadie interviene.",
+      "autor": "Gabriel García Márquez",
+      "ano": 1981
+    },
+    {
+      "titulo": "La casa de los espíritus",
+      "autor": "Isabel Allende",
+      "imagen": "https://m.media-amazon.com/images/I/816xOSfb2XL._UF894,1000_QL80_.jpg",
+      "resena": "Una saga familiar marcada por lo sobrenatural y los conflictos políticos en América Latina, explorando temas como el amor, la traición y la justicia.",
+      "ano": 1982
+    },
+    {
+      "titulo": "It",
+      "autor": "Stephen King",
+      "imagen": "https://m.media-amazon.com/images/I/71ZIovNjw+L._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Un grupo de niños enfrenta sus peores miedos en la forma de un payaso malévolo. Una historia de amistad, valentía y el poder de enfrentar el mal.",
+      "ano": 1986
+    },
+    {
+      "titulo": "El gran Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "imagen": "https://m.media-amazon.com/images/I/61hAvhdPV2S._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Una exploración de la decadencia, los excesos y la búsqueda del sueño americano en los años 20, narrada a través de la vida del misterioso Jay Gatsby.",
+      "ano": 1925
+    },
+    {
+      "titulo": "Crónica de una muerte anunciada",
+      "autor": "Gabriel García Márquez",
+      "imagen": "https://m.media-amazon.com/images/I/81ItYmT-50L.jpg",
+      "resena": "Una historia fascinante sobre un asesinato que toda una comunidad conoce de antemano, explorando el peso de la tradición, la fatalidad y la responsabilidad colectiva.",
+      "ano": 1981
+    },
+    {
+      "titulo": "El alquimista",
+      "autor": "Paulo Coelho",
+      "imagen": "https://m.media-amazon.com/images/I/71Y+zLnZJuL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "La historia de Santiago, un pastor que sigue sus sueños y busca su tesoro personal, reflejando temas de superación y autodescubrimiento.",
+      "ano": 1988
+    },
+    {
+      "titulo": "Matar a un ruiseñor",
+      "autor": "Harper Lee",
+      "imagen": "https://m.media-amazon.com/images/I/71ScCUdhhQL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Un clásico que aborda la injusticia racial y la pérdida de la inocencia, narrado desde la perspectiva de Scout Finch, una niña en el sur de los Estados Unidos.",
+      "ano": 1960
+    },
+    {
+      "titulo": "La sombra del viento",
+      "autor": "Carlos Ruiz Zafón",
+      "imagen": "https://m.media-amazon.com/images/I/71BS32NFrsL._AC_UF894,1000_QL80_.jpg",
+      "resena": "Un joven descubre un libro maldito que transforma su vida en un recorrido por los oscuros secretos de la Barcelona gótica.",
+      "ano": 2001
+    },
+    {
+      "titulo": "Ulises",
+      "autor": "James Joyce",
+      "imagen": "https://m.media-amazon.com/images/I/71yxeP1BtBL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Una obra revolucionaria que narra un día en la vida de Leopold Bloom, utilizando técnicas narrativas innovadoras como el monólogo interior. Explora temas como la identidad, el amor y la vida moderna.",
+      "ano": 1922
+    },
+    {
+      "titulo": "Las mil y una noches",
+      "autor": "Anónimo",
+      "imagen": "https://m.media-amazon.com/images/I/81Sy3D+XbrL._UF894,1000_QL80_.jpg",
+      "resena": "Una colección de cuentos tradicionales del Medio Oriente que entrelazan historias mágicas, de amor y aventuras contadas por Scheherezade para salvar su vida.",
+      "ano": 1704
+    },
+    {
+      "titulo": "En busca del tiempo perdido",     
+      "autor": "Marcel Proust",
+      "imagen": "https://m.media-amazon.com/images/I/71ivo8QucTL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Una introspectiva serie de novelas que exploran la memoria, el arte y la sociedad a través de la mirada detallada del narrador sobre su vida y sus relaciones.",
+      "ano": 1913
+    },
+    {
+      "titulo": "El nombre de la rosa",
+      "autor": "Umberto Eco",
+      "imagen": "https://m.media-amazon.com/images/I/71lM9yNEepL._AC_UF894,1000_QL80_.jpg",
+      "resena": "Un thriller histórico ambientado en un monasterio medieval donde un monje y su aprendiz investigan una serie de asesinatos misteriosos.",
+      "ano": 1980
+    },
+    {
+      "titulo": "Frankenstein",
+      "autor": "Mary Shelley",
+      "imagen": "https://m.media-amazon.com/images/I/61oPJXXqXGL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "La historia de un científico que crea un ser vivo a partir de partes humanas, explorando los límites de la ciencia, la ética y el impacto de la soledad.",
+      "ano": 1818
+    },
+    {
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "imagen": "https://m.media-amazon.com/images/I/617OArwKDAL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "La historia del conde Drácula y su intento de mudarse a Inglaterra, enfrentando a un grupo de personajes que intentan detenerlo. Un clásico del terror gótico.",
+      "ano": 1897
+    },
+    {
+      "titulo": "La metamorfosis",
+      "autor": "Franz Kafka",
+      "imagen": "https://m.media-amazon.com/images/I/612NA7i9u8L._AC_UF1000,1000_QL80_.jpg",
+      "resena": "El impactante relato de Gregor Samsa, quien se despierta convertido en un insecto gigante, explorando temas como la alienación, el rechazo y la identidad.",
+      "ano": 1915
+    },
+    {
+      "titulo": "Cumbres borrascosas",
+      "autor": "Emily Brontë",
+      "imagen": "https://m.media-amazon.com/images/I/81G3b+sNSjL._AC_UF894,1000_QL80_.jpg",
+      "resena": "Una historia de amor trágica y obsesiva entre Catherine y Heathcliff, situada en los páramos ingleses y marcada por la pasión y la venganza.",
+      "ano": 1847
+    },
+    {
+      "titulo": "A sangre fría",
+      "autor": "Truman Capote",
+      "imagen": "https://m.media-amazon.com/images/I/71bgGnuTKLL._AC_UF894,1000_QL80_.jpg",
+      "resena": "Una novela de no ficción que narra el brutal asesinato de una familia en Kansas y las vidas de los culpables, ofreciendo una mirada fascinante a la mente criminal.",
+      "ano": 1966
+    },
+    {
+      "titulo": "El corazón de las tinieblas",
+      "autor": "Joseph Conrad",
+      "imagen": "https://m.media-amazon.com/images/I/61ZSm54sscL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "La travesía de Marlow hacia el corazón de África para encontrar a un misterioso comerciante llamado Kurtz, explorando la oscuridad inherente al alma humana.",
+      "ano": 1899
+    },
+    {
+      "titulo": "Madame Bovary",
+      "autor": "Gustave Flaubert",
+      "imagen": "https://m.media-amazon.com/images/I/516vAsK3kXL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Una novela que relata la insatisfacción de Emma Bovary con su vida cotidiana y su búsqueda de emoción a través de romances ilícitos y el lujo.",
+      "ano": 1857
+    },
+    {
+      "titulo": "El guardián entre el centeno",
+      "autor": "J.D. Salinger",
+      "imagen": "https://m.media-amazon.com/images/I/61fwcnFmmpL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "La historia de Holden Caulfield, un adolescente rebelde que narra su visión desencantada de la sociedad y su búsqueda de autenticidad.",  
+      "ano": 1951
+    },
+    {
+      "titulo": "Moby-Dick",
+      "autor": "Herman Melville",
+      "imagen": "https://m.media-amazon.com/images/I/71d5wo+-MuL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Una épica sobre la obsesión del capitán Ahab por vengarse de una ballena blanca, simbolizando la lucha entre el hombre y la naturaleza.",
+      "ano": 1851
+    },
+    {
+      "titulo": "La divina comedia",
+      "autor": "Dante Alighieri",
+      "imagen": "https://m.media-amazon.com/images/I/71WJbXGxPdL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Un poema épico que narra el viaje de Dante a través del Infierno, el Purgatorio y el Paraíso, explorando temas de fe, redención y amor divino.",
+      "ano": 1320
+    },
+    {
+      "titulo": "El retrato de Dorian Gray",
+      "autor": "Oscar Wilde",  
+      "imagen": "https://m.media-amazon.com/images/I/71N1th8b5vL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "La historia de un hombre cuya belleza permanece inalterada mientras su retrato envejece y refleja los efectos de su vida hedonista.",
+      "ano": 1890
+    },
+    {
+      "titulo": "Los hermanos Karamázov",
+      "autor": "Fiódor Dostoyevski",
+      "imagen": "https://m.media-amazon.com/images/I/71GxEy5PKbL._UF1000,1000_QL80_.jpg",
+      "resena": "Una profunda exploración de la moralidad, la religión y las relaciones familiares a través de la vida de los hermanos Karamázov.",
+      "ano": 1880
+    },
+    {
+      "titulo": "El extranjero",
+      "autor": "Albert Camus",
+      "imagen": "https://m.media-amazon.com/images/I/61RLAWzw+rL._AC_UF894,1000_QL80_.jpg",
+      "resena": "La historia de Meursault, un hombre apático que comete un asesinato y enfrenta el absurdo de la vida durante su juicio.",
+      "ano": 1942
+    },
+    {
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "imagen": "https://m.media-amazon.com/images/I/61Hje5q9CRL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Una novela innovadora que invita al lector a saltar entre capítulos para descubrir múltiples perspectivas de una historia sobre amor y autodescubrimiento.",
+      "ano": 1963
+    },
+    {
+      "titulo": "Cien poemas de amor y una canción desesperada",
+      "autor": "Pablo Neruda",
+      "imagen": "https://m.media-amazon.com/images/I/81bU4PJrsKL._AC_UF1000,1000_QL80_.jpg",
+      "resena": "Una colección de poemas que celebra el amor y la pasión, combinando imágenes sensuales con emociones intensas.",
+      "ano": 1924
+    },
+    {
+      "titulo": "La historia interminable",
+      "autor": "Michael Ende",
+      "imagen": "https://m.media-amazon.com/images/I/81AnDoYIymL._UF894,1000_QL80_.jpg",
+      "resena": "La aventura de Bastián en el mundo de Fantasía, donde debe salvar al reino de la Nada y descubrir su propio valor.",
+      "ano": 1979
+    }
+  ]
+}

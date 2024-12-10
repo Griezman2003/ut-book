@@ -1,0 +1,76 @@
+<div class="container-fluid bg-light min-vh-100 d-flex justify-content-center align-items-center">
+  <div class="card p-4 shadow-lg rounded" style="max-width: 600px; width: 100%;">
+    <div class="row">
+      <a class="text-decoration-none mb-3" style="display: flex; justify-content: end;" href="/">← Volver</a>
+    </div>
+    <h2 class="text-center mb-4">Agregar Libro</h2>
+    
+    <form (ngSubmit)="agregarLibro()" class="needs-validation" novalidate>
+      <!-- Título -->
+      <div class="mb-3">
+        <label for="titulo" class="form-label">Título:</label>
+        <input 
+          type="text" 
+          id="titulo" 
+          class="form-control" 
+          [(ngModel)]="titulo" 
+          name="titulo" 
+          required 
+          placeholder="Introduce el título del libro">
+        <div class="invalid-feedback">El título es obligatorio.</div>
+      </div>
+
+      <!-- Autor -->
+      <div class="mb-3">
+        <label for="autor" class="form-label">Autor:</label>
+        <input 
+          type="text" 
+          id="autor" 
+          class="form-control" 
+          [(ngModel)]="autor" 
+          name="autor" 
+          required 
+          placeholder="Introduce el nombre del autor">
+        <div class="invalid-feedback">El autor es obligatorio.</div>
+      </div>
+
+      <!-- Archivo PDF -->
+      <div class="mb-3">
+        <label for="archivo_pdf" class="form-label">Archivo PDF:</label>
+        <input 
+          type="file" 
+          id="archivo_pdf" 
+          class="form-control" 
+          (change)="onFileChange($event)" 
+          required>
+        <div class="invalid-feedback">El archivo PDF es obligatorio.</div>
+      </div>
+
+      <!-- Imagen -->
+      <div class="mb-3">
+        <label for="imagen" class="form-label">Imagen:</label>
+        <input 
+          type="file" 
+          id="imagen" 
+          class="form-control" 
+          (change)="onImageChange($event)" 
+          required>
+        <div class="invalid-feedback">La imagen es obligatoria.</div>
+      </div>
+
+      <!-- Botón de envío -->
+      <div class="d-grid gap-2">
+        <button type="submit" class="btn btn-primary">Subir Libro</button>
+      </div>
+    </form>
+
+    <!-- Mensaje de confirmación o error -->
+    <div *ngIf="mensaje" class="mt-3 alert alert-info">
+      <p>{{ mensaje }}</p>
+    </div>
+  </div>
+</div>
+
+
+
+  
